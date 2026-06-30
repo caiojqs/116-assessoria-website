@@ -1,0 +1,13 @@
+{
+  "name": "116-assessoria-website",
+  "version": "1.0.0",
+  "description": "Website institucional da 116 Assessoria - Assessoria em Importação",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server --port=3000"
+  },
+  "keywords": ["importacao", "assessoria", "comercio-exterior"],
+  "author": "116 Assessoria",
+  "license": "UNLICENSED"
+}
